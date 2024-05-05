@@ -8,6 +8,8 @@ public class UpbankApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UpbankApplication.class, args);
+
+
 	}
 
 }
